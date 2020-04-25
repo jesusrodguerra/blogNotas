@@ -1,0 +1,34 @@
+.tarjeta{
+    background: #5edfff;
+}
+
+.titulo{
+    text-align: center;
+}
+
+#tarea-ingresada{
+    width: 100%;
+}
+
+#agregar{
+  background-color: #bbe1fa;
+  border: none;
+  color: #333;
+  padding: 10px 10px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 24px;
+  width: 100%;
+}
+
+#agregar:hover {
+    background-color: #06623b;
+    color: white;
+}
+
+.btn-eliminar {
+    float: right;
+    cursor: pointer;
+    color: red;
+    font-weight: bold;
+}
